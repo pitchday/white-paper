@@ -121,8 +121,14 @@ The smart contracts govern the application in the following ways
 
 ### Between Users
 Smart contracts are formed between collaborators and between backers and pitched projects and or businesses. 
- - Smart contract between collaborators for ownership on project
- - Smart contract between backer and pitch for ownership of project
+ 
+#### Smart contract between collaborators for ownership on project
+
+![Smart contract ownership](/images/smart-contract-ownership.png)
+
+#### Smart contract between backer and pitch for ownership of project
+
+![Smart contract backer ownership](/images/smart-contract-backer-ownership.jpg)
 
 
 ## Token Issuance and Crowdsale Issue
