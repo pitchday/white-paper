@@ -145,7 +145,7 @@ This amount is used for support that advisors and investors provided.
 * 3% allocated to Bounty
 This amount is used to reward for assistance in pre-launch marketing and PR.
 
-## PDT - Genesis Block
+## PDT - Mining Reward Allocation
 
 Of the 312,000,000 unmined tokens they will be distributed to the following.
 
