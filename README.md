@@ -75,6 +75,23 @@ This amount is used for the foundation and the advisory committee.
 * 5% allocated to Legal
 This amount is used for legal expenses and maintenance.
 
+## Roadmap
+
+Pitchday primary aim is to create a platform and marketplace where participants and token holders benefit; and receive upside value in the short, medium and long term.
+
+Date | Desciption
+------------ | -------------
+January 2016 | **Concept Development.** Founders started exploring the collaborative, decentralized/ and distributed services industry. 
+September 2017 | **White Paper and Concept Validation.** The concept has been validated by industry peers and reviewed by the community at large.
+October 2017 | **Pre-crowdsale.** The pre-sale starts from Sept 15th to Dec 15th. 
+December 2017 | **Crowdsale.** The sale will run from Dec 15th to Jan 15th or until the hard cap is reached. 
+2018 | **dAPP Development.** Development of Alpha and Beta versions for developers and community members to test. 
+2018 | **Launch of Pitchday v1.0 (“Prospect”).** Release of the first version of Pitchday. Release of the upgraded version of Pitchday.
+2018 | **Marketing Campaigns.** Launch of a series of marketing campaign to build brand awareness and a bigger community.		
+2019 | **Scaling the system.** In order to meet the Pitchday community’s needs.
+2019 | **Marketing Promotion.** On-going Marketing campaigns.
+2019 | **Launch of Pitchday v2.0 (“Influence”).** Release of the upgraded version of Pitchday.
+
 ## The Foundation
 
 The Pitchday ecosystem is a community of partners – infrastructure and applications – that adopt the PDT token. The Foundation is intended as an independent, nonprofit, and democratic governance body for the members of this ecosystem. The principal functions will include the open governance of its resources together with other ecosystem partners, the support and advancement of the technology related to Pitchday implementation, and all matters related to ecosystem membership.
@@ -90,4 +107,9 @@ Resources are dedicated to establish fair and transparent processes that will ov
 
 ### Research and Development
 Resources are to be dedicated to innovation by establishing partnerships and employing individuals that will drive the platform and its technology forward. 
+
+## Conclusion
+
+Pitchday will be the destination platform to find like minded individuals and share, collaborate and contribute to ideas, projects and companies. By making a platform that empowers people around the world to participate in an digital economy with equal opportunity is regardless of their domicile or economic class, will enrich the lives of hundreds or millions people. PDT will facilitate the growth toward financial freedom and prosperity while making the world a better place.
+
 
