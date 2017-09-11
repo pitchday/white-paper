@@ -75,4 +75,19 @@ This amount is used for the foundation and the advisory committee.
 * 5% allocated to Legal
 This amount is used for legal expenses and maintenance.
 
+## The Foundation
+
+The Pitchday ecosystem is a community of partners – infrastructure and applications – that adopt the PDT token. The Foundation is intended as an independent, nonprofit, and democratic governance body for the members of this ecosystem. The principal functions will include the open governance of its resources together with other ecosystem partners, the support and advancement of the technology related to Pitchday implementation, and all matters related to ecosystem membership.
+
+The foundation’s mandate is to grow the ecosystem by giving the participants of the platform value while enabling developers an open and sustainable platform to develop, deploy and maintain those products and services. 
+
+For the long term the vision is to set the foundation with more innovative methods such that a decentralized autonomous organisation can be formed (DAO) in which decisions would be made across the entire ecosystem.
+
+Allocation of funding to the foundation will be dedicated to the following specific areas:
+
+### Governance
+Resources are dedicated to establish fair and transparent processes that will oversee decisions related to membership, contributions, participation rules, legal matters and compliance guidelines. 
+
+### Research and Development
+Resources are to be dedicated to innovation by establishing partnerships and employing individuals that will drive the platform and its technology forward. 
 
