@@ -19,6 +19,8 @@ Hard Cap | 156,000 ETH
 
 A percentage of the Pitchday token (PDT) will be sold via a crowdsale. The remaining quantity will be written into the the genesis block for the mining community. Allocations will be as follows:
 
+![Allocation](/images/genesis.jpg)
+
 * 168,000,000 tokens allocated for sale through Pre-crowdsale and Crowdsale
 This amount is sold or granted to the public before and during crowdsale event.
 * 312,000,000 allocated for Genesis Block and Mining Pool
