@@ -30,6 +30,8 @@ This amount is sold reserved for the entire ecosystem and community of miners.
 
 Of the 168,000,000 tokens which are to be set aside as pre-mined the allocations are as follows:
 
+![Pre-Crowdsale and Crowdsale](/images/premined-genesis.jpg)
+
 * 62% allocated to Crowdsale period
 This is for the miners based on PoW and PoS work on the blockchain.
 * 10% allocated to Core Team and Contributors
@@ -47,6 +49,8 @@ Of the 312,000,000 unmined tokens they will be distributed to the following.
 
 **Miners, Community (Developers/ Contributors/ Users), Foundation**. These groups are crucial to the growth and sustainability of the network. The allocations are written into the protocol and the blockchain genesis block. Allocations are vested base of a time-value formula.
 
+![Crowdsale Fund allocation](/images/mining-reward-distribution.jpg)
+
 * 63% allocated to the Miners
 This is for the miners based on PoW and PoS work on the blockchain.
 * 10% allocated to the Community
@@ -57,6 +61,8 @@ This amount is used for supporting the foundation and its operations.
 ## Use of Crowdsale Funds
 
 Funds raised during the crowdsale will be allocated as follows. Upto 30% of funds raised will be hedged to USD across a 2 year period to reduce the risk of crypto volatility. Based on a token sale amount of minimum threshold of 7,500ETH or equivalent value is reached.
+
+![Crowdsale Fund allocation](/images/crowdsale-fund-allocation.jpg)
 
 * 60% allocated to Development
 This is for developing and maintaining the platform.
