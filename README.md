@@ -69,6 +69,8 @@ Use PDT to support ideas and projects.
 #### PDT Token Holders
 Govern the network and provide the fuel for enabling transactions.
 
+![Allocation](/images/token-holders.jpg)
+
 ## System Technical Consideration
 The system is built on top of Ethereum and IPFS protocol layers. This section covers general technical considerations for the Pitchday network.
 ### The Network
