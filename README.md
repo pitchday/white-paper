@@ -87,19 +87,42 @@ Infrastructure of Miners. Storage providers, Stakeholders
 1. Consensus voting
 2. Mining contributions
 
-## Application Use Case
-The following use case will be supported in version v1.0 of the platform.
-1. **User activity.** Users interacting with the network earn PDT for transactions such as: onboarding users, connecting, collaborating, chat etc..
-2. **Individuals collaborating.** User collaboration allows for immutable ownership for projects
-3. **Collaborators/Team's pitching.** Users collaborating on projects pitch users in the network to gain support and further backing.
-4. **Startups pitching.** Ready state projects, Startups and Businesses pitch the network to gain support and backing.
+![Allocation](/images/service-nodes.jpg)
 
-### Smart Contracts
-The smart contracts govern the application in the following ways:
-- **Between Users and the network.**
-- **Between Users.** Smart contracts are formed between collaborators and between backers and pitched projects and or businesses. 
-  - Smart contract between collaborators for ownership on project
-  - Smart contract between backer and pitch for ownership of project
+## Application Use Case
+
+The following use case will be supported in version v1.0 of the platform.
+### User activity
+Users interacting with the network earn PDT for transactions such as: onboarding users, connecting, collaborating, chat etc..
+
+![User activity](/images/user-activity.jpg)
+
+### Individuals collaborating
+User collaboration allows for immutable ownership for projects
+
+![Individuals collaborating](/images/individuals-collaborating.jpg)
+
+### Collaborators/Team's pitching
+Users collaborating on projects pitch users in the network to gain support and further backing.
+
+![Collaborators pitching](/images/collaborators-pitching.jpg)
+
+### Startups pitching
+Ready state projects, Startups and Businesses pitch the network to gain support and backing.
+
+![Startups pitching](/images/startups-pitching.jpg)
+
+## Smart Contracts
+The smart contracts govern the application in the following ways
+
+### Between Users and the network
+
+![Smart contract users network](/images/smart-contract-users-network.jpg)
+
+### Between Users
+Smart contracts are formed between collaborators and between backers and pitched projects and or businesses. 
+ - Smart contract between collaborators for ownership on project
+ - Smart contract between backer and pitch for ownership of project
 
 
 ## Token Issuance and Crowdsale Issue
