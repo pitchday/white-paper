@@ -32,7 +32,7 @@ The vision is an ecosystem that freely supports collaboration and increases the 
 
 ## Abstract
 
-The Pitchday is a network which allows anyone to collaborate, support and contribute to other participants securely in a decentralized way. Where ownership is immutable and contribution is rewarded through a blockchain based smart contract system. 
+Pitchday is a network which allows anyone to collaborate, support and contribute to other participants' projects securely in a decentralized way. On Pitchday, ownership is immutable and contribution is rewarded through a blockchain based smart contract system. 
 
 The Pitchday Token (PDT) is the transport for each transaction within the network and between each participant. Allowing them to freely share information, exchange value peer-to-peer. It enables compensation between the system and between users of the system. It allows autonomous voting. 
 
@@ -40,7 +40,7 @@ Pitchday aims to tokenize the future of collaborative creations. It aims to toke
 
 ## The Pitchday Token (PDT)
 
-Pitchday will introduce a token named PDT. The token is used for platform activity such as onboarding, chat, pitching, payments and contributions. The token accounts for all economic activity and transactions and will interoperate with projects on the platform.
+Pitchday will introduce a token named PDT. The token is used for platform activity such as onboarding, chatting, pitching, payments and contributions. The token accounts for all economic activity and transactions and will interoperate with projects on the platform.
 						
 **The token is essential to the platform for the following reasons:**
 
@@ -120,7 +120,7 @@ The smart contracts govern the application in the following ways
 ![Smart contract users network](/images/smart-contract-users-network.jpg)
 
 ### Between Users
-Smart contracts are formed between collaborators and between backers and pitched projects and or businesses. 
+Smart contracts are formed between collaborators but also between backers and pitched projects or businesses. 
  
 #### Smart contract between collaborators for ownership on project
 
@@ -154,9 +154,9 @@ A percentage of the Pitchday token (PDT) will be sold via a crowdsale. The remai
 
 ![Allocation](/images/genesis.jpg)
 
-* 168,000,000 tokens allocated for sale through Pre-crowdsale and Crowdsale
+* 168,000,000 tokens allocated for sale through Pre-crowdsale and Crowdsale.
 This amount is sold or granted to the public before and during crowdsale event.
-* 312,000,000 allocated for Genesis Block and Mining Pool
+* 312,000,000 allocated for Genesis Block and Mining Pool.
 This amount is sold reserved for the entire ecosystem and community of miners.
 
 ## Pre-Crowdsale and Crowdsale
@@ -165,15 +165,15 @@ Of the 168,000,000 tokens which are to be set aside as pre-mined the allocations
 
 ![Pre-Crowdsale and Crowdsale](/images/premined-genesis.jpg)
 
-* 62% allocated to Crowdsale period
+* 62% allocated to Crowdsale period.
 This is for the miners based on PoW and PoS work on the blockchain.
 * 10% allocated to Core Team and Contributors
 This amount represents pre-development.
-* 15% allocated to the Foundation
+* 15% allocated to the Foundation.
 This amount is used for supporting the foundation and its operations. 
-* 10% allocated to Advisors and Investors
+* 10% allocated to Advisors and Investors.
 This amount is used for support that advisors and investors provided. 
-* 3% allocated to Bounty
+* 3% allocated to Bounty.
 This amount is used to reward for assistance in pre-launch marketing and PR.
 
 ## PDT - Mining Reward Allocation
@@ -184,11 +184,11 @@ Of the 312,000,000 unmined tokens they will be distributed to the following.
 
 ![Crowdsale Fund allocation](/images/mining-reward-distribution.jpg)
 
-* 63% allocated to the Miners
+* 63% allocated to the Miners.
 This is for the miners based on PoW and PoS work on the blockchain.
-* 10% allocated to the Community
+* 10% allocated to the Community.
 This amount represents development and users of the platform.
-* 5% allocated to the Foundation
+* 5% allocated to the Foundation.
 This amount is used for supporting the foundation and its operations. 
 
 ## Use of Crowdsale Funds
@@ -197,15 +197,15 @@ Funds raised during the crowdsale will be allocated as follows. Upto 30% of fund
 
 ![Crowdsale Fund allocation](/images/crowdsale-fund-allocation.jpg)
 
-* 60% allocated to Development
+* 60% allocated to Development.
 This is for developing and maintaining the platform.
-* 20% allocated to Marketing
+* 20% allocated to Marketing.
 This amount is promote and market the platform to the public.
-* 10% allocated to Operations
+* 10% allocated to Operations.
 This amount is used to maintain the operations of the core team.
-* 5% allocated to the Foundation
+* 5% allocated to the Foundation.
 This amount is used for the foundation and the advisory committee.
-* 5% allocated to Legal
+* 5% allocated to Legal.
 This amount is used for legal expenses and maintenance.
 
 ## Roadmap
@@ -220,7 +220,7 @@ October 2017 | **Pre-crowdsale.** The pre-sale starts from Sept 15th to Dec 15th
 December 2017 | **Crowdsale.** The sale will run from Dec 15th to Jan 15th or until the hard cap is reached. 
 2018 | **dAPP Development.** Development of Alpha and Beta versions for developers and community members to test. 
 2018 | **Launch of Pitchday v1.0 (“Prospect”).** Release of the first version of Pitchday. Release of the upgraded version of Pitchday.
-2018 | **Marketing Campaigns.** Launch of a series of marketing campaign to build brand awareness and a bigger community.		
+2018 | **Marketing Campaigns.** Launch of a series of marketing campaigns to build brand awareness and a bigger community.		
 2019 | **Scaling the system.** In order to meet the Pitchday community’s needs.
 2019 | **Marketing Promotion.** On-going Marketing campaigns.
 2019 | **Launch of Pitchday v2.0 (“Influence”).** Release of the upgraded version of Pitchday.
@@ -243,7 +243,7 @@ Resources are to be dedicated to innovation by establishing partnerships and emp
 
 ## Conclusion
 
-Pitchday will be the destination platform to find like minded individuals and share, collaborate and contribute to ideas, projects and companies. By making a platform that empowers people around the world to participate in an digital economy with equal opportunity is regardless of their domicile or economic class, will enrich the lives of hundreds or millions people. PDT will facilitate the growth toward financial freedom and prosperity while making the world a better place.
+Pitchday will be the destination platform to find like minded individuals and share, collaborate and contribute to ideas, projects and companies. Making a platform that empowers people around the world to participate in an digital economy with equal opportunities regardless of their domicile or economic class, will enrich the lives of hundreds or millions people. PDT will facilitate the growth toward financial freedom and prosperity while making the world a better place.
 
 ## References
 
