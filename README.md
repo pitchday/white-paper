@@ -215,8 +215,8 @@ Pitchday primary aim is to create a platform and marketplace where participants 
 Date | Desciption
 ------------ | -------------
 January 2016 | **Concept Development.** Founders started exploring the collaborative, decentralized/ and distributed services industry. 
-September 2017 | **White Paper and Concept Validation.** The concept has been validated by industry peers and reviewed by the community at large.
-October 2017 | **Pre-crowdsale.** The pre-sale starts from Sept 15th to Dec 15th. 
+September 2017 | **White Paper and Concept Validation.** The concept has been validated by industry peers and reviewed by the community at large. Started accepting investments.
+October 2017 | **Pre-crowdsale.** The pre-sale starts from Oct 15th to Dec 15th. 
 December 2017 | **Crowdsale.** The sale will run from Dec 15th to Jan 15th or until the hard cap is reached. 
 2018 | **dAPP Development.** Development of Alpha and Beta versions for developers and community members to test. 
 2018 | **Launch of Pitchday v1.0 (“Prospect”).** Release of the first version of Pitchday. Release of the upgraded version of Pitchday.
